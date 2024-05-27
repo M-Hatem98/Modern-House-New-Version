@@ -1,0 +1,662 @@
+.button-theme {
+    background: #376BFF;
+}
+
+.button-theme:hover {
+    background: #376BFF;
+}
+
+.navbar-light .navbar-toggler{
+    border: solid 1px #376BFF;
+    background: #376BFF;
+}
+
+.daterangepicker .drp-buttons .btn-primary{
+    color: #fff;
+    background: #376BFF;
+}
+
+.setting-button i{
+    color: #376BFF;
+}
+
+.open-color{
+    background: #04da89;
+}
+
+#page_scroller {
+    background: #376BFF;
+}
+
+.new-user-box .follow:hover {
+    background: #376BFF;
+}
+
+/** Tab box start **/
+.tab-box .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background: #376BFF;
+    border-radius: 100px;
+}
+
+.tab-box-3 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #376BFF;
+}
+
+.checkbox-theme input[type="checkbox"]:checked + label::before {
+    border: 2px solid #376BFF;
+}
+
+.main-header .dropdown-menu a:hover {
+    color: #376BFF;
+}
+
+input[type=checkbox]:checked + label:before {
+    color: #376BFF;
+}
+
+.banner-bg-color{
+    background: #376BFF;
+}
+
+.how-it-work .number {
+    background: #376BFF;
+}
+
+.top-header {
+    background-color: #376BFF;
+}
+
+.contact-2 .contact-info .media i{
+    background: #376BFF;
+}
+
+.how-it-work h2 {
+    color: #376BFF;
+}
+
+.btn-theme{
+    background: #376BFF;
+    border: solid 1px #376BFF;
+}
+
+.btn-theme:hover{
+    background: #376BFF;
+    border: solid 1px #376BFF;
+}
+
+.btn-white-lg-outline:hover {
+    color: #FFF;
+    background: #376BFF;
+    border: solid 2px #376BFF;
+}
+
+.amenities ul li i {
+    color: #376BFF
+}
+
+.border-button-theme {
+    color: #376BFF;
+    border: 2px solid #376BFF;
+}
+
+.banner-detail-box .white-box .slide-price {
+    color: #376BFF;
+}
+
+.banner-detail-box .white-box .slide-location::after {
+    background-color: #376BFF;
+}
+
+.search-options-btn, .search-options-btn:hover {
+    background: #376BFF;
+}
+
+.search-button {
+    background: #376BFF;
+}
+
+.service-info .media-left i{
+    color: #376BFF;
+}
+
+.search-button:hover {
+    color: #fff;
+    background: #376BFF;
+}
+
+.btn-outline {
+    border: solid 1px #376BFF;
+    color: #376BFF;
+}
+
+.btn-outline:hover {
+    border: solid 1px #376BFF;
+    background: #376BFF;
+    color: #fff;
+}
+
+.a-color{
+    color: #376BFF;
+}
+
+.main-header .navbar-expand-lg .navbar-nav .link-color:hover{
+    color: #376BFF;;
+}
+
+.bootstrap-select.btn-group.show-tick .dropdown-menu li.selected a span.check-mark {
+    color: #376BFF;
+}
+
+.bootstrap-select .dropdown-menu > .active > a,
+.bootstrap-select .dropdown-menu > .active > a:focus,
+.bootstrap-select .dropdown-menu > .active > a:hover {
+    color: #376BFF;
+}
+
+.bootstrap-select .dropdown-menu li a:hover .text {
+    color: #376BFF;
+}
+
+.recently-property-box .detail header::after {
+    background-color: #376BFF;
+}
+
+.property-box .icon:hover{
+    background: #376BFF;
+}
+
+.property-box-2 .icon:hover{
+    background: #376BFF;
+}
+
+.property-box .detail .title a {
+    color: #376BFF;
+}
+
+footer .footer-item .contact-info li label a:hover {
+    color: #376BFF;
+}
+
+.service-box .heading .title h4 a:hover {
+    color: #376BFF;
+}
+
+.main-header .form-inline .submit {
+    border: solid 1px #376BFF;
+    color: #376BFF;
+}
+
+.blog-1 .detail h1 a{
+    color: #376BFF;
+}
+
+.category-overlay .icon i{
+    color: #fff;
+}
+
+.main-header .form-inline .submit:hover {
+    border: solid 1px #376BFF;
+    background: #376BFF;
+    color: #fff;
+}
+
+.main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
+    color: #376BFF;
+}
+
+/*.main-header .navbar-expand-lg .navbar-nav .active .nav-link {
+    color: #376BFF !important;
+}*/
+
+.main-header .navbar-expand-lg .user-account li a:hover {
+    color: #376BFF;
+}
+
+.plan .price-header h1 {
+    color: #376BFF;
+}
+
+.btn-outline {
+    border: solid 1px #376BFF;
+    color: #376BFF;
+}
+
+.btn-outline:hover {
+    border: solid 1px #376BFF;
+    background: #376BFF;
+    color: #fff;
+}
+
+.btn-outline-2 {
+    border: solid 2px #376BFF;
+    color: #376BFF;
+    font-weight: 600;
+}
+
+.heading-listing-3 .rent{
+    border: solid 1px #376BFF;
+    background: #376BFF;
+    color: #fff;
+}
+
+.heading-property-2 h3 span {
+    color: #376BFF;
+}
+
+.property-box-2 .footer a:hover{
+    color: #376BFF;
+}
+
+.heading-property-3 .rent{
+    background: #376BFF;
+}
+
+.heading-listing-3 .location i{
+    color: #376BFF;
+}
+
+.price{
+    color: #376BFF;
+}
+
+.agent-3 .btn-user {
+    background: #376BFF;
+}
+
+.agent-3 .btn-user:hover {
+    background: #376BFF;
+}
+
+.heading-listing-3 .ratings-box{
+    background: #376BFF;
+}
+
+.testimonial-2 .carousel-indicators li.active {
+    background: #376BFF;
+}
+
+.testimonial .carousel-indicators li.active {
+    background: #376BFF;
+}
+
+.btn-outline-2:hover {
+    border: solid 2px #376BFF;
+    background: #376BFF;
+    color: #fff;
+}
+
+.map-property .map-property-fetures span i{
+    color: #376BFF;
+}
+
+.footer .form-inline .btn{
+    background: #376BFF;
+    color: #fff;
+}
+
+.about-box .detail h3 {
+    color: #376BFF;
+}
+
+li.active.btn.filtr-button.filtr {
+    color: #fff;
+    background: #376BFF;
+}
+
+.filteriz-navigation li:hover{
+    color: #fff;
+    background: #376BFF;
+}
+
+.change-view-btn {
+    color: #376BFF;
+    border: solid 1px #376BFF;
+}
+
+.change-view-btn:hover {
+    border: solid 1px #376BFF;
+    background: #376BFF;
+}
+
+.sub-banner .page-info .breadcrumb-area ul li a:hover {
+    color: #376BFF;
+}
+
+.active-color{
+    background: #376BFF;
+}
+.active-view-btn {
+    background: #376BFF;
+    border: solid 1px #376BFF;
+}
+
+.active-view-btn:hover {
+    border: solid 1px #376BFF;
+    color: #376BFF;
+}
+
+.contact-form .login-inner-form .btn-theme {
+    background: #376BFF;
+}
+
+.border-thn{
+    color: #376BFF;
+    border: solid 2px #376BFF;
+}
+
+.border-thn:hover{
+    border: solid 2px #376BFF;
+    background: #376BFF;
+}
+
+.form-content-box .footer span a {
+    color: #376BFF;
+}
+
+.about-slider-box:before {
+    border: 2px solid #376BFF;
+}
+
+.show-more-options i{
+    color: #376BFF;
+}
+
+.fh3 .navbar-expand-lg .navbar-nav .nav-link:hover{
+    color: #376BFF!important;
+}
+
+.price {
+    color: #376BFF;
+}
+
+.faq-accordion .card-header .card-title:before {
+    background: #376BFF;
+}
+
+.pagination > li > .active {
+    background: #376BFF;
+}
+
+.pagination > li > a:hover {
+    background: #376BFF;
+    color: #fff;
+}
+
+.read-more {
+    color: #376BFF;
+}
+
+.blog-1 .date-box {
+    background: #376BFF;
+}
+
+.range-slider .ui-slider .ui-slider-handle {
+    background: #376BFF;
+}
+
+.our-agent-sidebar .carousel-indicators .active {
+    background: #376BFF;
+}
+
+.range-slider .ui-slider .ui-slider-handle {
+    border: 2px solid #376BFF;
+}
+
+.range-slider .ui-widget-header {
+    background-color: #376BFF;
+}
+
+.category-2 ul li a:hover {
+    color: #376BFF;
+}
+
+.tags-box ul li a:hover {
+    border: 1px solid #376BFF;
+    background: #376BFF;
+}
+
+.latest-tweet a {
+    color: #376BFF;
+}
+
+.comment-meta a {
+    color: #376BFF;
+}
+
+.comment-meta a:hover {
+    color: #376BFF;
+}
+
+.blog-tags a:hover {
+    border: 1px solid #376BFF;
+    background: #376BFF;
+    color: #fff;
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+    color: #376BFF;
+}
+
+.breadcrumbs li a:hover {
+    color: #376BFF;
+}
+
+.helping-center ul li i {
+    color: #376BFF;
+}
+
+.blog-1 .detail .post-meta span a i{
+    color: #376BFF;
+}
+
+.property-box .footer ul li a:hover{
+    color: #376BFF;
+}
+
+.category-overlay .facilities-list li i{
+    color: #376BFF;
+}
+
+.my-account-box .title::after {
+    background-color: #376BFF;
+}
+
+.contact-form .login-inner-form .checkbox-theme input[type="checkbox"]:checked + label::before {
+    background-color: #376BFF;
+    border-color: #376BFF;
+}
+
+.contact-form .login-inner-form .btn-theme {
+    background: #376BFF;
+}
+
+.contact-form .login-inner-form .btn-theme:hover {
+    background: #376BFF;
+}
+
+.photoUpload {
+    background: #376BFF;
+}
+
+.typography-page mark.color {
+    background-color: #376BFF;
+}
+
+.faq-accordion .card-header .collapsed.card-title:before {
+    color: #376BFF;
+}
+
+.manage-table .action a:hover {
+    color: #376BFF;
+}
+
+.dashboard-nav-2 .header {
+    background: #376BFF;
+}
+
+.dashboard-nav-2 .detail ul li .active{
+    border-left: 3px solid #376BFF;
+    color: #376BFF;
+}
+
+.dashboard-nav-2 .detail ul li a:hover {
+    color: #376BFF;
+    border-left: solid 3px #376BFF;
+}
+
+.bg-active {
+    background: #376BFF;
+    color: #fff !important;
+}
+
+.typography .list-3 li:before, .list-2 li:before, .list-1 li:before {
+    color: #376BFF;
+}
+
+.numbered.color.filled ol > li::before {
+    border: 1px solid #376BFF;
+    background-color: #376BFF;
+}
+
+.numbered.color ol > li::before {
+    border: 1px solid #376BFF;
+    color: #376BFF;
+}
+
+.border-thn{
+    color: #376BFF;
+    border: solid 2px #376BFF;
+}
+
+.border-thn:hover{
+    color: #fff;
+    border: solid 2px #376BFF;
+    background: #376BFF;
+}
+
+.widget-link:hover {
+    color: #376BFF;
+}
+
+.coming-soon-inner .btn, .coming-soon-inner .btn:hover, .coming-soon-inner .btn:active {
+    background: #376BFF;
+}
+
+.property-box-2 .detail .title a{
+    color: #376BFF;
+}
+
+.property-box-2 .detail h1 a{
+    color: #376BFF;
+}
+
+.tabbing-box .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color: #376BFF;
+}
+
+.tabbing-box .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link:hover {
+    background-color: #376BFF;
+}
+
+.map-marker:hover {
+    background-color: #376BFF;
+    cursor: pointer;
+}
+
+.map-marker:hover:before {
+    border-color: #376BFF transparent transparent transparent;
+}
+
+.map-marker.featured:hover {
+    background-color: #376BFF;
+}
+
+.map-marker.featured:hover:before {
+    border-color: #376BFF transparent transparent transparent;
+}
+
+.map-marker .icon {
+    border: 3px solid #376BFF;
+}
+
+.marker-active .map-marker {
+    background-color: #376BFF;
+}
+
+.marker-active .map-marker:before {
+    border-color: #376BFF transparent transparent transparent;
+}
+
+.slick-arrow-buton:hover{
+    color: #376BFF;
+}
+
+.banner-box .price{
+    color: #376BFF;
+}
+
+.banner-box-2{
+    background: #376BFF!important;
+}
+
+.slick-btn .slick-arrow-buton-2:hover{
+    color: #376BFF;
+}
+
+.banner-box ul li i{
+    color: #376BFF;
+}
+
+.banner-box .location a i{
+    color: #376BFF;
+}
+
+.map-property .address i {
+    color: #376BFF;
+}
+
+.map-property .map-content h4 a {
+    color: #376BFF;
+}
+
+.dropzone-design:hover {
+    border: 2px dashed #376BFF;
+}
+
+@media (max-width: 992px) {
+    .main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
+        color: #376BFF;
+    }
+
+    .main-header .navbar-expand-lg .navbar-nav .link-color:hover{
+        color: #376BFF!important;
+    }
+
+    .banner-box-2 {
+        background: transparent!important;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #376BFF;
+    }
+
+    .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+        background-color: #376BFF !important;
+    }
+
+    .main-header .navbar-default .nav > li > a:hover {
+        background: #376BFF;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+        background-color: #376BFF !important;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        background: #eee;
+    }
+}

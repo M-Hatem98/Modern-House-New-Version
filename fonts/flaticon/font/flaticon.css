@@ -1,0 +1,70 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 26/11/2019 11:31
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.eot");
+  src: url("Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("Flaticon.woff2") format("woff2"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype"),
+       url("Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: auto;
+font-style: normal;
+margin-left: 0;
+}
+
+.flaticon-bed:before { content: "\f100"; }
+.flaticon-bathtub:before { content: "\f101"; }
+.flaticon-bath:before { content: "\f102"; }
+.flaticon-area:before { content: "\f103"; }
+.flaticon-placeholder:before { content: "\f104"; }
+.flaticon-pin:before { content: "\f105"; }
+.flaticon-heart:before { content: "\f106"; }
+.flaticon-heart-1:before { content: "\f107"; }
+.flaticon-calendar:before { content: "\f108"; }
+.flaticon-share:before { content: "\f109"; }
+.flaticon-award:before { content: "\f10a"; }
+.flaticon-project:before { content: "\f10b"; }
+.flaticon-user:before { content: "\f10c"; }
+.flaticon-supermarket:before { content: "\f10d"; }
+.flaticon-comment:before { content: "\f10e"; }
+.flaticon-phone:before { content: "\f10f"; }
+.flaticon-fax:before { content: "\f110"; }
+.flaticon-mail:before { content: "\f111"; }
+.flaticon-mail-1:before { content: "\f112"; }
+.flaticon-architecture-and-city:before { content: "\f113"; }
+.flaticon-logout:before { content: "\f114"; }
+.flaticon-lock:before { content: "\f115"; }
+.flaticon-check:before { content: "\f116"; }
+.flaticon-plus:before { content: "\f117"; }
+.flaticon-plus-1:before { content: "\f118"; }
+.flaticon-star:before { content: "\f119"; }
+.flaticon-architecture-and-city-1:before { content: "\f11a"; }
+.flaticon-house:before { content: "\f11b"; }
+.flaticon-car:before { content: "\f11c"; }
+.flaticon-transport:before { content: "\f11d"; }
+.flaticon-price:before { content: "\f11e"; }
+.flaticon-tag:before { content: "\f11f"; }
+.flaticon-gym:before { content: "\f120"; }
+.flaticon-fan:before { content: "\f121"; }
+.flaticon-wine:before { content: "\f122"; }
+.flaticon-seller:before { content: "\f123"; }
+.flaticon-alarm:before { content: "\f124"; }
+.flaticon-wifi:before { content: "\f125"; }
