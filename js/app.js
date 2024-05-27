@@ -414,11 +414,11 @@ $(function () {
     function populateColorPlates() {
         var plateStings = '<div class="option-panel option-panel-collased">\n' +
             '    <h2>Change Color</h2>\n' +
-            '    <div class="color-plate default-plate" data-color="default"></div>\n' +
-            '    <div class="color-plate midnight-blue-plate" data-color="midnight-blue"></div>\n' +
-            '    <div class="color-plate yellow-plate" data-color="yellow"></div>\n' +
-            '    <div class="color-plate red-plate" data-color="red"></div>\n' +
-            // '    <div class="color-plate blue-plate" data-color="blue"></div>\n' +
+            '    <div class="color-plate yellow-plate" data-color="default"></div>\n' +
+            // '    <div class="color-plate default-plate" data-color="default"></div>\n' +
+            // '    <div class="color-plate midnight-blue-plate" data-color="midnight-blue"></div>\n' +
+            // '    <div class="color-plate red-plate" data-color="red"></div>\n' +
+            // '    <div class="color-plate gold" data-color="green"></div>\n' +
             // '    <div class="color-plate green-light-plate" data-color="green-light"></div>\n' +
             // '    <div class="color-plate yellow-light-plate" data-color="yellow-light"></div>\n' +
             // '    <div class="color-plate green-plate" data-color="green"></div>\n' +
