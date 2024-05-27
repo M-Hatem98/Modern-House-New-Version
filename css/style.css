@@ -92,7 +92,7 @@ ul {
 }
 
 .twitter:hover {
-    color: #56d7fe !important;
+    color: #dc4e41 !important;
 }
 
 .google:hover {
@@ -118,7 +118,7 @@ ul {
 }
 
 .twitter-bg {
-    background: #33CCFF;
+    background: #db4437;
     color: #fff;
 }
 
@@ -148,7 +148,7 @@ ul {
 }
 
 .twitter-bg:hover {
-    background: #56d7fe;
+    background: #db4437;
     color: #fff;
 }
 
@@ -3379,7 +3379,7 @@ footer {
 }
 
 .sub-footer .f-twitter-bg:hover {
-    background: #56d7fe;
+    background: #db4437;
     color: #fff;
 }
 
@@ -8777,3 +8777,29 @@ footer {
 }
 
 
+.contact-icons {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.contact-icons a {
+    font-size: 24px;
+    color: white;
+    background-color: #25D366; /* Default to WhatsApp green */
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.contact-icons a.phone {
+    background-color: #34b7f1; /* Brand color for phone */
+}
+.contact-icons a.message {
+    background-color: #0078FF; /* Brand color for message */
+}
