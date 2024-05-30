@@ -2,6 +2,10 @@
     background: #BF8C1C;
 }
 
+.bi-8 h2 {
+    color: #BF8C1C;
+}
+
 .button-theme:hover {
     background: #03ca7e;
 }
